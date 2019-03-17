@@ -1,0 +1,11 @@
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\WebAPI.DAL.dll.config
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\WebAPI.DAL.dll
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\WebAPI.DAL.pdb
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\obj\Debug\WebAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\obj\Debug\WebAPI.DAL.csproj.CopyComplete
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\obj\Debug\WebAPI.DAL.dll
+C:\Users\Ruhim\Downloads\WebAPI_Example\WebAPI.DAL\obj\Debug\WebAPI.DAL.pdb
